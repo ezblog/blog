@@ -1,2 +1,2 @@
 # blog
-my blog articles hosted on github
+ezblog 博客文章
